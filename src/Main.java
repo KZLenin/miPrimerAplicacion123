@@ -33,6 +33,7 @@ public class Main {
             if (cont == 2) {
                 System.out.println(i);
             }
+
         }
     }
 }
